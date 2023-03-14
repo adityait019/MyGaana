@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Gaana</string>
+    <string name="play">play</string>
+    <string name="pause">Pause</string>
+    <string name="skip">skip</string>
+    <string name="vol">-Vol</string>
+    <string name="upvolume">+vol</string>
+</resources>
